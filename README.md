@@ -10,12 +10,12 @@ The ESP8266/8285 chips are products of [Espressif](https://espressif.com) and ar
 Latetly ESP82XX-basic has been integrated with esp82xx.
 Now, the directory structure for a basic firmware is created by cloning this repository and runing `make project`.
 
-   git clone --recursive https://github.com/con-f-use/esp82XX-basic.git
-   cd esp82XX-basic
-   make project
+    git clone --recursive https://github.com/con-f-use/esp82XX-basic.git
+    cd esp82XX-basic
+    make project
 
 To actually build firmware, you will need the Espressif toolchain.
-Instructions on who to get it and build this firmware are in the esp82xx readme.
+Instructions on how to get it and build this firmware are in the [esp82xx readme](https://github.com/cnlohr/esp82xx).
 
 ## Features
 
